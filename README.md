@@ -2,7 +2,6 @@
 <img align="right" alt ="coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashnu&label=Profile%20views&color=0e75b6&style=flat" alt="rajashnu" /> </p>
 
-- 🌱 I’m currently learning **Java**
 
 # 💫 About Me:
 🌱 I’m currently learning Java<br>
