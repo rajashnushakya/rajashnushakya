@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Java<br>
+🌱 I’m currently learning Vue js<br>
 
 
 ## 🌐 Socials:
